@@ -1,6 +1,6 @@
 version="0.0.0"
 tags={
-	"Events"
+	"Fixes"
 }
-name="Placeholder Mod Title"
-supported_version="*.*.*"
+name="HPP + Bookmarks+ Compatch"
+supported_version="1.14.*"
